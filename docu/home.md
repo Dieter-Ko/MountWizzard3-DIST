@@ -36,11 +36,11 @@ MountWizzard is using and which windows you will experience from the beginning o
 ### Installation
 Please look to [installation procedures](installation.md) for detailed information, what and when to do.
 ### Setting up MountWizzard
-All necessary steps for the [configuration of MountWizzard](settings.md) are explained.
+All necessary steps for the [configuration of MountWizzard](configuration.md) are explained.
 ### Setting up my gear
-Based on my equimpment, i tried to explain what to do for an astronomy imaging setup. There are a lot of
+Based on my equipment, i tried to explain what to do for an astronomy imaging setup. There are a lot of
  possibilities to do this and I'm happy about any hint you give me.
- [Stepping thourg my personal setup](./setup_gear/setup_gear.md)
+ [Stepping through my personal setup](./setup_gear/setup_gear.md)
 
 ### Remarks about model building
 As there was (and is) ModelMaker from Per in the past (btw which influenced me to buy the right mount)
