@@ -1,14 +1,14 @@
 # MountWizzard3 <img src="docu/pics/mw.png" width='64' height='64'/>
 
 #### Application for use in 10micron Mount environment
-Supports SGPro (Imaging and Solving), INDI Framework (Imaging), MaximDL (limited to imaging), Stickstation, MBox, UniHedron SQR,
-OpenWeather and some more ASCOM parts (Windows only). For plate solving I recommend using the new local astrometry.net installation
-from Jussi (https://github.com/Jusas/astrometry-api-lite). It works great and you have a blind solver as well
-on board.
+Supports SGPro (Imaging and Solving), INDI Framework (Imaging), MaximDL (limited to imaging), Stickstation, MBox,
+UniHedron SQR, OpenWeather and some more ASCOM parts (Windows only). For plate solving I recommend using the new
+local astrometry.net installation from Jussi (https://github.com/Jusas/astrometry-api-lite). It works great and
+you have a blind solver as well on board.
 
 (C) Michael Würtenberger 2018
 
-#### Version release: new, test version actual 3.0 beta 9
+#### Version release: new, test version actual 3.0 beta 10
 
 [Link to the extended documentation and handbook of MountWizzard3](./docu/home.md)
 
