@@ -8,16 +8,11 @@ you have a blind solver as well on board.
 
 (C) Michael Würtenberger 2018
 
-#### Version release: new, test version actual 3.0 beta 12
+#### Version release: 3.0 ReleaseCandidate 1
 
 [Link to the extended documentation and handbook of MountWizzard3](./docu/home.md)
 
 [Link to FAQ and how to make a problem report](./docu/FAQ.md)
-
-## Where to find the downloads ?
-The downloadable files are now under "releases" on top of this page!
-
-<img src="docu/pics/releases.png"/>
 
 ## Features:
 - Runs multi platform (Windows 7 / 10, Linux Ubuntu 16.04 / 18.04 LTS, Mac OSx High Sierra tested)
